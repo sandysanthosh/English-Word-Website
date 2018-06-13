@@ -11,3 +11,9 @@ website:
 * englishathome
 * freeenglishstudy
 
+
+http://www.twogag.com/
+
+
+https://www.lyrics.com/
+
